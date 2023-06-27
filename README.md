@@ -1,8 +1,7 @@
 # fs-open
 Deep dive into modern web development - fullstack
 
-a Introduction to React | ![Progress](https://progress-bar.dev/58/?title=completed)
-https://progress-bar.dev/58/?title=completed
+a Introduction to React | ![Progress](https://progress-bar.dev/5/?title=InProgress)
 - [ ] Component
 - [ ] JSX
 - [ ] Multiple components
