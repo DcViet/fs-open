@@ -1,5 +1,7 @@
 # fs-open
-Deep dive into modern web development - fullstack
+>Deep dive into modern web development - fullstack
+
+<img alr="" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ2ZnVhYjhtaWx1NXZndzY1cDV4cnlpdzNuc3N0Y2ZuY3czYzY4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 a Introduction to React | ![Progress](https://progress-bar.dev/5/?title=InProgress)
 - [ ] Component
